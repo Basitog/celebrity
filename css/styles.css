@@ -1,0 +1,80 @@
+#card{
+    height: 40vh;
+    width: 70%;
+   background-color: gainsboro;
+   box-shadow: 3px 3px 9px red;
+   /* border: solid; */
+   margin-top: 20px;
+   margin-left: 180px;
+}
+#age{
+    text-align: center;
+}
+#yes{
+    margin-left: 350px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#no{
+    padding-left: 30px;
+    padding-right: 30px; 
+}
+.first-card{
+   margin-top: 70px ;
+}
+#card2{
+    height: 40vh;
+    background-color: pink;
+    /* border: solid; */
+    display: none;
+    margin-top: 30px;
+    width: 680px;
+}
+#first-input{
+    margin-left: 120px;
+    /* margin-top: 10px; */
+}
+#second-input{
+    margin-left: 120px;
+    margin-top: 30px;
+}
+#button2{
+    margin-left: 530px;
+    margin-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#female-form{
+    display: none;
+}
+#male-form{
+    display: none;
+}
+#eligible{
+    display: none;
+}
+  
+.card4{
+   
+    margin-top: 30px;
+  
+}
+.card3{
+    margin-top: 30px;
+}
+#riri{
+   display: none;
+}
+  
+#halle{
+    display: none;
+}
+  
+#kim{
+    display: none;
+}
+#riris{
+   height: 300px;
+   margin-top: 20px;
+}
+   
